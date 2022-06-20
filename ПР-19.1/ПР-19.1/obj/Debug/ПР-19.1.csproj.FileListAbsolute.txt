@@ -1,0 +1,22 @@
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\bin\Debug\ПР-19.1.exe.config
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\bin\Debug\ПР-19.1.exe
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\bin\Debug\ПР-19.1.pdb
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.csproj.AssemblyReference.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР_19._1.Train.resources
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР_19._1.Properties.Resources.resources
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.csproj.GenerateResource.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.csproj.CoreCompileInputs.cache
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.exe
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.pdb
+D:\Desktop\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР_19._1.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\bin\Debug\ПР-19.1.exe.config
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\bin\Debug\ПР-19.1.exe
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\bin\Debug\ПР-19.1.pdb
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР_19._1.Train.resources
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР_19._1.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР_19._1.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.exe
+C:\Users\User\OneDrive\Рабочий стол\.учеба\.ОА и ПР2\.программирование\ПР-19.1\ПР-19.1\obj\Debug\ПР-19.1.pdb
